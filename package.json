@@ -4,7 +4,8 @@
   "description": "Unit testing with Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "author": "Nikolas Santis nikosantis@gmail.com",
   "license": "MIT",
